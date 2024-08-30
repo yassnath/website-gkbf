@@ -102,27 +102,22 @@ const MobileMenu = () => {
           <li className="menu-item has-children">
             <a href="http://localhost:3000/">
               home
-              <span className="dd-trigger"></span>
             </a>
           </li>
           <li className="menu-item has-children">
             <a href="#">
               About Us
-              <span className="dd-trigger"></span>
             </a>
           </li>
           <li className="menu-item has-children">
             <a href="#">
               Events
-              <span className="dd-trigger"></span>
             </a>
           </li>
           <li className="menu-item has-children">
             <a href="#">
               Services
-              <span className="dd-trigger">
                 <i className="far fa-angle-down" />
-              </span>
             </a>
             <ul className="sub-menu">
               <li>
@@ -148,7 +143,6 @@ const MobileMenu = () => {
           <li className="menu-item has-children">
             <a href="#">
               Contact
-              <span className="dd-trigger"></span>
             </a>
           </li>
         <li className="menu-item search-item">

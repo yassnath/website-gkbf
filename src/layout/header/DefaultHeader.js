@@ -132,13 +132,13 @@ const DefaultHeader = () => {
               <div className="lang-dropdown">
                 <select className="wide">
                   <option value="English">English</option>
-                  <option value="French">French</option>
+                  <option value="French">Indonesia</option>
                 </select>
               </div>
               <div className="menu-button d-xl-block d-none">
                 <Link legacyBehavior href="/contact">
                   <a className="main-btn primary-btn">
-                    Book Now
+                    Login
                     <i className="fas fa-paper-plane" />
                   </a>
                 </Link>
@@ -155,4 +155,5 @@ const DefaultHeader = () => {
     </header>
   );
 };
+
 export default DefaultHeader;

@@ -48,7 +48,7 @@ export default class Home3Slider extends Component {
                     <div className="hero-content text-white">
                       <span className="sub-title">Welcome to GKB Filadelfia Malang</span>
                       <h1 data-animation="fadeInDown" data-delay=".4s">
-                        Tour Travel &amp; Adventure
+                        Love &amp; Serve
                       </h1>
                       <div
                         className="hero-button"
@@ -89,7 +89,7 @@ export default class Home3Slider extends Component {
                     <div className="hero-content text-white">
                       <span className="sub-title">Welcome to GKB Filadelfia Malang</span>
                       <h1 data-animation="fadeInDown" data-delay=".4s">
-                        Tour Travel &amp; Camping
+                        Love &amp; Serve
                       </h1>
                       <div
                         className="hero-button"
@@ -130,7 +130,7 @@ export default class Home3Slider extends Component {
                     <div className="hero-content text-white">
                       <span className="sub-title">Welcome to GKB Filadelfia Malang</span>
                       <h1 data-animation="fadeInDown" data-delay=".4s">
-                        Tour Travel &amp; Adventure
+                      Love &amp; Serve
                       </h1>
                       <div
                         className="hero-button"

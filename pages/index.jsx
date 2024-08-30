@@ -27,12 +27,10 @@ const Index3 = () => {
                 {/*=== Section Title ===*/}
                 <div className="section-title mb-30">
                   <span className="sub-title">Availability</span>
-                  <h2>Explore GoWilds Real Adventure &amp; Travels</h2>
+                  <h2>What's New?</h2>
                 </div>
                 <p className="mb-30">
-                  Sit amet consectetur integer tincidunt sceleries noda lesry
-                  volutpat neque fermentum malesuada scelequecy leocras odio
-                  blandit rhoncus eues feugiat
+                  Here all updated information from GKB Filadelfia Malang
                 </p>
                 <a href="#" className="main-btn filled-btn">
                   Learn More
@@ -50,7 +48,7 @@ const Index3 = () => {
                         <i className="flaticon-camping" />
                       </div>
                       <div className="text">
-                        <h3 className="title">Tent Camping</h3>
+                        <h3 className="title">Youth Fest</h3>
                         <p>
                           Sit amet consectetur integ tincidunt scelerie nodermen
                           malesuada sceleris massa
@@ -65,7 +63,7 @@ const Index3 = () => {
                         <i className="flaticon-biking-mountain" />
                       </div>
                       <div className="text">
-                        <h3 className="title">Mountain Biking</h3>
+                        <h3 className="title">Sunday School</h3>
                         <p>
                           Sit amet consectetur integ tincidunt scelerie nodermen
                           malesuada sceleris massa
@@ -80,7 +78,7 @@ const Index3 = () => {
                         <i className="flaticon-fishing-2" />
                       </div>
                       <div className="text">
-                        <h3 className="title">Fishing &amp; Boat</h3>
+                        <h3 className="title">Christmas</h3>
                         <p>
                           Sit amet consectetur integ tincidunt scelerie nodermen
                           malesuada sceleris massa
@@ -95,7 +93,7 @@ const Index3 = () => {
                         <i className="flaticon-caravan" />
                       </div>
                       <div className="text">
-                        <h3 className="title">RV Caravan Tent</h3>
+                        <h3 className="title">Easter Egg</h3>
                         <p>
                           Sit amet consectetur integ tincidunt scelerie nodermen
                           malesuada sceleris massa
