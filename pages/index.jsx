@@ -130,8 +130,8 @@ const Index3 = () => {
               <div className="about-content-box text-white pl-lg-40 mb-50">
                 {/*=== Section Title ===*/}
                 <div className="section-title mb-30">
-                  <span className="sub-title">About Company</span>
-                  <h2>We’re Number 1 Travel Adventure Company</h2>
+                  <span className="sub-title">About Church</span>
+                  <h2>Jesus Our Savior</h2>
                 </div>
                 <p className="mb-30">
                   Sit amet consectetur. Velit integer tincidunt sceleries
@@ -166,7 +166,7 @@ const Index3 = () => {
                       <h2 className="number">
                         <Counter end={356} />+
                       </h2>
-                      <p>Happy Traveler</p>
+                      <p>Parish</p>
                     </div>
                   </div>
                 </div>
@@ -198,7 +198,7 @@ const Index3 = () => {
                       <h2 className="number">
                         <Counter end={99} />%
                       </h2>
-                      <p>Positive Reviews</p>
+                      <p>Servants of God</p>
                     </div>
                   </div>
                 </div>
@@ -215,7 +215,7 @@ const Index3 = () => {
                         <Counter end={24} />
                         K+
                       </h2>
-                      <p>Awards Winning</p>
+                      <p>Organization</p>
                     </div>
                   </div>
                 </div>
